@@ -1,10 +1,10 @@
 # CSharp-Algorithms 
 > (Learning Algorithms in C#)
 ## Topics
-```
+
 * Linked List
-⋅⋅* Stack
-⋅⋅* Queue
-⋅⋅* Binary Search
-⋅⋅* Linear Search
-```
+* Stack
+* Queue
+* Binary Search
+* Linear Search
+
