@@ -1,5 +1,5 @@
 # CSharp-Algorithms 
-> (Learning Algorithms in C#)
+> Learning Algorithms in C#
 ## Topics
 
 * Linked List
